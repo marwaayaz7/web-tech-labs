@@ -1,0 +1,1 @@
+In this entire lab task i have learned the installation of vscode and extensions in it . then i have installed the git , github and how to push my work from vscode to github . 
