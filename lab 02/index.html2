@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 02 - Home</title>
+</head>
+<body>
+
+<h1>Marwa Ayaz</h1>
+<p>BS Computer Science - 4th Semester</p>
+<p>UET Peshawar</p>
+
+<h3>Lab 02 Pages</h3>
+
+<a href="profile.html">My Profile</a><br>
+<a href="schedule.html">Time Table</a><br>
+<a href="registration.html">Registration Form</a><br>
+<a href="navigation.html">Navigation Page</a><br>
+
+</body>
+</html>
