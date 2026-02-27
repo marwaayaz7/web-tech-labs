@@ -22,3 +22,13 @@ You can access the deployed site using GitHub Pages.
 ---
 
 © 2026 Marwa Ayaz
+
+## GitHub Pages Deployment (Task 12)
+
+1. Organized repository structure.
+2. Pushed all files to GitHub using Git commands.
+3. Enabled GitHub Pages from repository settings.
+4. Selected "Deploy from branch" and chose the main branch.
+5. Waited for the GitHub Pages build process.
+6. Tested all pages via the GitHub Pages URL.
+7. Verified that all navigation links work correctly.
